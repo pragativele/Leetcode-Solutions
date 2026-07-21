@@ -13,6 +13,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Design
