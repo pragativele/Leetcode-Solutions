@@ -48,6 +48,7 @@
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/pragativele/Leetcode-Solutions/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/pragativele/Leetcode-Solutions/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
