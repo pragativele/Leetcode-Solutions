@@ -53,6 +53,7 @@
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/pragativele/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/pragativele/Leetcode-Solutions/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
