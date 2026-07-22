@@ -6,6 +6,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pragativele/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -76,4 +77,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pragativele/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
