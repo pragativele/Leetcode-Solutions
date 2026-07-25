@@ -41,6 +41,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/pragativele/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Number Theory
 |  |
 | ------- |
