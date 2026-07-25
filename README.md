@@ -12,6 +12,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3895-count-digit-appearances](https://github.com/pragativele/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2469-convert-the-temperature](https://github.com/pragativele/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/pragativele/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3895-count-digit-appearances](https://github.com/pragativele/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
 | ------- |
