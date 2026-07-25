@@ -12,6 +12,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3895-count-digit-appearances](https://github.com/pragativele/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | [2413-smallest-even-multiple](https://github.com/pragativele/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/pragativele/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/pragativele/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/pragativele/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
