@@ -40,6 +40,7 @@
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
