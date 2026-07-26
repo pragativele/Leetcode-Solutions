@@ -60,6 +60,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/pragativele/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/3099-harshad-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/pragativele/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -89,6 +90,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
