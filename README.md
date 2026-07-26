@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
