@@ -54,6 +54,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/pragativele/Leetcode-Solutions/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/pragativele/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
