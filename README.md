@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Monotonic Stack
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
@@ -160,10 +162,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
