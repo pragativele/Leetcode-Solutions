@@ -149,6 +149,7 @@
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Monotonic Stack
@@ -167,6 +168,7 @@
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
@@ -183,6 +185,7 @@
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
