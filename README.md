@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0303-range-sum-query-immutable](https://github.com/pragativele/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -152,6 +155,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -178,6 +182,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
