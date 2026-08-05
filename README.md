@@ -177,6 +177,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -210,6 +211,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -238,6 +240,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
@@ -253,6 +256,7 @@
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Two Pointers
 |  |
