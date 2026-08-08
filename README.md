@@ -41,6 +41,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -124,6 +125,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
@@ -326,10 +328,19 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
