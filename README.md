@@ -24,6 +24,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -103,6 +104,7 @@
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0191-number-of-1-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,10 +339,12 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
