@@ -217,6 +217,7 @@
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0617-merge-two-binary-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
