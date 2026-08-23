@@ -111,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -159,6 +160,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
@@ -325,6 +327,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -416,4 +419,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
