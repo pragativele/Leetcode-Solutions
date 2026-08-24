@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pragativele/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
