@@ -34,6 +34,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/pragativele/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -51,6 +52,7 @@
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
