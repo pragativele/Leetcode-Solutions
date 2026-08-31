@@ -189,6 +189,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -237,6 +238,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -329,6 +331,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
