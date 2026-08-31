@@ -128,6 +128,7 @@
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1108-defanging-an-ip-address](https://github.com/pragativele/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -151,6 +152,7 @@
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
