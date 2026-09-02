@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -190,6 +192,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -487,5 +490,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
