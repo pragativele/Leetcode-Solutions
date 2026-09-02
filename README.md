@@ -13,6 +13,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/pragativele/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -492,4 +494,8 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
