@@ -33,6 +33,7 @@
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -213,6 +214,7 @@
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
