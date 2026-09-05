@@ -91,6 +91,7 @@
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -132,6 +133,7 @@
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/pragativele/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -392,6 +394,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
