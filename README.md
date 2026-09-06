@@ -133,6 +133,7 @@
 | [0165-compare-version-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Dynamic Programming
 |  |
@@ -207,6 +209,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
