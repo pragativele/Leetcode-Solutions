@@ -33,6 +33,7 @@
 | [1470-shuffle-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -219,6 +220,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -229,6 +231,7 @@
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -285,6 +288,7 @@
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 ## Binary Tree
 |  |
 | ------- |
@@ -526,4 +530,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
