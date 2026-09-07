@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -221,6 +222,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -282,6 +284,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 ## Binary Tree
@@ -332,6 +336,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -457,6 +462,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
