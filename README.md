@@ -228,6 +228,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0897-increasing-order-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0962-maximum-width-ramp](https://github.com/pragativele/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
@@ -293,6 +294,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -350,6 +352,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -399,6 +402,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -481,6 +485,7 @@
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
