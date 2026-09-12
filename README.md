@@ -169,6 +169,7 @@
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/pragativele/Leetcode-Solutions/tree/master/0461-hamming-distance) |
@@ -278,6 +279,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragativele/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pragativele/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -340,6 +342,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragativele/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/pragativele/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -486,6 +489,7 @@
 | [0098-validate-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
