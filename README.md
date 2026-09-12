@@ -147,6 +147,7 @@
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
