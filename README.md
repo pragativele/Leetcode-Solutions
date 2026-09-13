@@ -23,6 +23,7 @@
 | [0506-relative-ranks](https://github.com/pragativele/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -67,6 +68,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -154,6 +156,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/pragativele/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
