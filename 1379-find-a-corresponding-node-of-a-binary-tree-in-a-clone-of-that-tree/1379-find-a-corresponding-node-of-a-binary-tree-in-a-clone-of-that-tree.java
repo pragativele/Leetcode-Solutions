@@ -13,15 +13,13 @@ class Solution {
         if(cloned == null){
             return null;
         }
-         if(original == target){
+        if(original == target){
             return cloned;
         }
-        
         TreeNode left = getTargetCopy(original.left, cloned.left, target);
-        if(left != null){
-            return left;
-        }
+            if(left != null){
+                return left;
+            }
         return getTargetCopy(original.right, cloned.right, target);
     }
-       
 }
