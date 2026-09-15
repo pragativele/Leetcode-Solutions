@@ -323,6 +323,7 @@
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Monotonic Stack
@@ -383,6 +384,7 @@
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Greedy
@@ -433,6 +435,7 @@
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -460,6 +463,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Two Pointers
 |  |
