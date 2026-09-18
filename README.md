@@ -177,6 +177,7 @@
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3838-weighted-word-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
@@ -203,6 +204,7 @@
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
