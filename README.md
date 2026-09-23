@@ -52,6 +52,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/pragativele/Leetcode-Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -208,6 +209,7 @@
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
@@ -525,6 +527,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pragativele/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
@@ -576,6 +579,7 @@
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
