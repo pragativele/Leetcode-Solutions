@@ -46,6 +46,7 @@
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pragativele/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -537,6 +538,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1859-sorting-the-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pragativele/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pragativele/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -673,4 +675,8 @@
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pragativele/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
