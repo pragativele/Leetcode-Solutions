@@ -63,6 +63,7 @@
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragativele/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -429,6 +430,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/pragativele/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragativele/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3523-make-array-non-decreasing](https://github.com/pragativele/Leetcode-Solutions/tree/master/3523-make-array-non-decreasing) |
 ## Depth-First Search
 |  |
@@ -557,6 +559,7 @@
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragativele/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
