@@ -200,6 +200,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3838-weighted-word-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragativele/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -515,6 +516,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragativele/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Brainteaser
 |  |
 | ------- |
@@ -562,6 +564,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/pragativele/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragativele/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search Tree
 |  |
 | ------- |
