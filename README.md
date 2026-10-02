@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/pragativele/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -224,6 +225,7 @@
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -548,6 +550,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/pragativele/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/pragativele/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -684,6 +687,7 @@
 | [0649-dota2-senate](https://github.com/pragativele/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/pragativele/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |
