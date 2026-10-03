@@ -59,6 +59,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragativele/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -93,6 +94,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -354,6 +356,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/pragativele/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -418,6 +421,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/pragativele/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
