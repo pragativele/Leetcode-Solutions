@@ -46,6 +46,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -112,12 +113,14 @@
 | [0328-odd-even-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pragativele/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/pragativele/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Function
 |  |
 | ------- |
@@ -701,11 +704,13 @@
 | [0933-number-of-recent-calls](https://github.com/pragativele/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/pragativele/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -728,4 +733,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/pragativele/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
