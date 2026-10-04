@@ -49,6 +49,7 @@
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1856-maximum-subarray-min-product](https://github.com/pragativele/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pragativele/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -144,6 +145,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -229,6 +231,7 @@
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -252,6 +255,7 @@
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -697,6 +701,7 @@
 | [0933-number-of-recent-calls](https://github.com/pragativele/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
