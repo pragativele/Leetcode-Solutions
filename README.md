@@ -34,6 +34,7 @@
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/pragativele/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
+| [0994-rotting-oranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/pragativele/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/pragativele/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -518,6 +519,7 @@
 | [0617-merge-two-binary-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1302-deepest-leaves-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pragativele/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -614,6 +616,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
