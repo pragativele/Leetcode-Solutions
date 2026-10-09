@@ -23,6 +23,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/pragativele/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -273,6 +274,7 @@
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -520,6 +522,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -623,6 +626,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pragativele/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pragativele/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
