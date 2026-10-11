@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragativele/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pragativele/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -253,6 +254,7 @@
 | [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -333,6 +335,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -402,6 +405,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0112-path-sum) |
@@ -607,6 +611,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
