@@ -359,6 +359,7 @@
 | [0404-sum-of-left-leaves](https://github.com/pragativele/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -429,6 +430,7 @@
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/pragativele/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -493,6 +495,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/pragativele/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/pragativele/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pragativele/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -629,6 +632,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pragativele/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/pragativele/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
