@@ -75,6 +75,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/pragativele/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -110,6 +111,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
