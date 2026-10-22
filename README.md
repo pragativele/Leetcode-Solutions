@@ -78,6 +78,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/pragativele/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pragativele/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -112,6 +113,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -596,6 +598,7 @@
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sorting
 |  |
