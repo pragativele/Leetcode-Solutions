@@ -64,6 +64,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pragativele/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/pragativele/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -110,6 +111,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
@@ -246,6 +248,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pragativele/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
