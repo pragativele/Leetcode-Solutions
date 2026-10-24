@@ -119,6 +119,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragativele/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -231,6 +232,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragativele/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3838-weighted-word-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragativele/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -606,6 +608,7 @@
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragativele/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sorting
 |  |
