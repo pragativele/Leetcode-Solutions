@@ -115,6 +115,7 @@
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -231,6 +232,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragativele/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/pragativele/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -613,6 +615,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
