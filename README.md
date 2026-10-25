@@ -117,6 +117,7 @@
 | [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pragativele/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -232,6 +233,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragativele/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/pragativele/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
@@ -256,6 +258,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pragativele/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Simulation
@@ -610,6 +613,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragativele/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
