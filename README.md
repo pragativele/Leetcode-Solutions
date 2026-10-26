@@ -113,6 +113,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -226,6 +227,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragativele/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/pragativele/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -258,6 +260,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -290,6 +293,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
 |  |
@@ -749,6 +753,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/pragativele/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragativele/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
 |  |
