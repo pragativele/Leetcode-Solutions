@@ -227,6 +227,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0649-dota2-senate](https://github.com/pragativele/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/pragativele/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/pragativele/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/pragativele/Leetcode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
