@@ -101,6 +101,7 @@
 | [0073-set-matrix-zeroes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -152,6 +153,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/pragativele/Leetcode-Solutions/tree/master/0705-design-hashset) |
 ## Math
@@ -212,6 +214,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -750,6 +754,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pragativele/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/pragativele/Leetcode-Solutions/tree/master/1499-max-value-of-equation) |
@@ -828,4 +833,16 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
