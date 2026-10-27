@@ -177,6 +177,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pragativele/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
