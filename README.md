@@ -57,6 +57,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/pragativele/Leetcode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/pragativele/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/pragativele/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1816-truncate-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -237,6 +238,7 @@
 | [1678-goal-parser-interpretation](https://github.com/pragativele/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
+| [1773-count-items-matching-a-rule](https://github.com/pragativele/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
