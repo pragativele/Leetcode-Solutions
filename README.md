@@ -166,6 +166,7 @@
 | [0096-unique-binary-search-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -208,6 +209,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/pragativele/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
