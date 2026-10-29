@@ -169,6 +169,7 @@
 | [0258-add-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pragativele/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pragativele/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -271,6 +272,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/pragativele/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/pragativele/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/pragativele/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -317,6 +319,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pragativele/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pragativele/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/pragativele/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/pragativele/Leetcode-Solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
