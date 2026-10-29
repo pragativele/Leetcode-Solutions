@@ -164,6 +164,7 @@
 | [0007-reverse-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pragativele/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -222,6 +223,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pragativele/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/pragativele/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/pragativele/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
