@@ -26,6 +26,7 @@
 | [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
@@ -176,6 +177,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pragativele/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragativele/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -660,6 +662,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/pragativele/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/pragativele/Leetcode-Solutions/tree/master/1051-height-checker) |
