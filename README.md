@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/pragativele/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/pragativele/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pragativele/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/pragativele/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/pragativele/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -516,6 +517,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/pragativele/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0860-lemonade-change](https://github.com/pragativele/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
