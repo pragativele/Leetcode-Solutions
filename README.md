@@ -26,6 +26,7 @@
 | [0542-01-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/pragativele/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pragativele/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/pragativele/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/pragativele/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -516,6 +517,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/pragativele/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/pragativele/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
