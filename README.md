@@ -203,6 +203,7 @@
 | [2485-find-the-pivot-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2579-count-total-number-of-colored-cells](https://github.com/pragativele/Leetcode-Solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/pragativele/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
