@@ -191,6 +191,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pragativele/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragativele/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pragativele/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -251,6 +252,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragativele/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/pragativele/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pragativele/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragativele/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/pragativele/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
