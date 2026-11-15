@@ -199,6 +199,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pragativele/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/pragativele/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/pragativele/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -309,6 +310,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/pragativele/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2169-count-operations-to-obtain-zero](https://github.com/pragativele/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pragativele/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
