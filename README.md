@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/pragativele/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pragativele/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/pragativele/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pragativele/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -348,6 +349,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pragativele/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/pragativele/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/pragativele/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/pragativele/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -537,6 +539,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pragativele/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/pragativele/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/pragativele/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/pragativele/Leetcode-Solutions/tree/master/0860-lemonade-change) |
