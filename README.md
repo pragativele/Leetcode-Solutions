@@ -269,6 +269,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragativele/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pragativele/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/pragativele/Leetcode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/pragativele/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
