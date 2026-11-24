@@ -87,6 +87,7 @@
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/pragativele/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pragativele/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pragativele/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/pragativele/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragativele/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -687,6 +688,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pragativele/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2351-first-letter-to-appear-twice](https://github.com/pragativele/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pragativele/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pragativele/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragativele/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/pragativele/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -749,6 +751,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pragativele/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragativele/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/pragativele/Leetcode-Solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragativele/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String Matching
 |  |
 | ------- |
